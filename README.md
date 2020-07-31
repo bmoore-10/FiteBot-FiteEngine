@@ -16,7 +16,7 @@ Run FiteBot.exe once again. Now, the bot should be online and ready for use.
 
 ## Info for server owners
 
-#### FiteBot looks for certain hardcoded values to determine various user permissions:
+#### FiteBot looks for certain hardcoded values to determine various user permissions: 
 
 Upon registration, FiteBot attempts to give the newly registered player the first role it sees in the server that is [Magenta](https://i.imgur.com/uBzcjK3.png) colored. To check that a player is allowed to run member commands, FiteBot checks that the user has the permission to read the message history of the channel they're messaging in. **For proper operation, please make sure that your registered user role is the only role that is magenta colored and that it has the Read History Of Channel permission in any channel where FiteBot commands are allowed to be run**.
 
